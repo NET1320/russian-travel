@@ -1,6 +1,5 @@
 # Проект 3: Путешествие по России
 
-<<<<<<< HEAD
 ### Проект на GitHub
 [Ссылка на проект](https://net1320.github.io/russian-travel/)
 
