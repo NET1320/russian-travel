@@ -9,7 +9,7 @@
     .photo-grid {
         grid-template-columns: repeat(2, 1fr);
         gap: 12px;
-        margin: 88px 24px 88px
+        margin: 88px 24px 88px;
         }
     }
 
