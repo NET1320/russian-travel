@@ -3,10 +3,3 @@
     grid-area: image;
     object-fit: cover;
 }
-
-@media screen  and (max-width: 768px) {
-    .place__image {
-        margin: 0;
-    }
-    
-}

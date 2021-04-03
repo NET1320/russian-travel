@@ -1,14 +1,10 @@
 .place__text {
 grid-area: paragraph;
-font-weight: 400;
-font-size: 18px;
-line-height: 163%;
-margin: 0;
+margin: 0 16px 0;
 }
 
-@media screen  and (max-width: 768px) {
+@media screen  and (min-width: 768px) {
     .place__text {
-        margin: 0 16px 0;
-        font-size: 16px;
+        margin: 0;
     }
 }
