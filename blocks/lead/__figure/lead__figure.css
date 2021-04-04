@@ -8,6 +8,13 @@
     }
 }
 
+@media screen  and (min-width: 1024px) {
+    .lead__figure {
+        margin-left: 48px;
+        margin-right: 48px;
+    }
+}
+
 @media screen  and (min-width: 1280px) {
     .lead__figure {
         margin-top: 64px;
